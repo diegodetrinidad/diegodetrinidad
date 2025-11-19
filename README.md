@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegodetrinidad
-- 👀 I’m interested in cybersecruity, software engineering, data analytics. 
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in cybersecruity.
+- 🌱 I’m currently learning Python, SQL, and C. 
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me diegodetrinidad@yahoo.com
 - 😄 Pronouns: He/Him
